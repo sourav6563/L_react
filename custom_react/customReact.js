@@ -20,7 +20,7 @@ const reactElement = {
     href: "https://google.com",
     target: "_blank",
   },
-  children: "Click me to visit Google",
+  children: "Click me to visit google",
 };
 
 const mainContainer = document.getElementById("root");
